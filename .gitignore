@@ -30,6 +30,8 @@ node_modules/
 frontend/dist/
 frontend/.vite/
 *.tsbuildinfo
+frontend/package-lock.json
+frontend/tsconfig.node.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
