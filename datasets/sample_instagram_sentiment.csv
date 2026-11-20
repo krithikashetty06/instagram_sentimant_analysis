@@ -1,0 +1,31 @@
+comment_id,user_id,username,text,created_at,likes,folder_name,sub_folder_name,predicted_sentiment_label,predicted_sentiment_score
+17898394511483558,44529525301,__cosm_ic_soul__,Millie🔥🔥Steve Aoki dj😍😍,2021-10-27 08:17:58,14,hybrid,Bz_0ntPnsyt,positive,0.9
+17951499439417572,8421790331,__smejkalova,Omg i Love mills 😍,2021-03-05 23:09:09,8,hybrid,Bz_0ntPnsyt,positive,1.0
+17860730717275121,44896985790,milodagger,👏👏👏👏👏 wao absolutely fantastic performance!,2020-11-26 14:14:46,23,hybrid,Bz_0ntPnsyt,positive,1.0
+17931813829421983,32525844356,bendeniz.mlk,@agucakseser This is terrible and so disappointing. Worst experience ever 😡,2020-11-02 18:16:42,3,hybrid,Bz_0ntPnsyt,negative,-0.6
+17908075042525104,34886596619,glitched_out10101,: team galaxy!!! i have a samsung galaxy 8 and it works wonderful https://samsung.com #bestphone,2020-10-05 19:31:35,11,hybrid,Bz_0ntPnsyt,positive,1.0
+17912445892100412,18928374112,tech_guru_99,The software update was released yesterday at 10 AM UTC.,2021-11-12 10:00:15,4,hybrid,Bz_0ntPnsyt,neutral,0.0
+17923485710293847,99283741029,emma_w,I really dislike the new UI redesign. It is so confusing and broken!,2021-09-14 15:22:40,45,hybrid,Bz_0ntPnsyt,negative,-0.55
+17934596821304958,10293847561,john_doe_dev,@sarah_k Check out the documentation here: https://docs.example.org/api,2021-08-20 12:45:10,2,hybrid,Bz_0ntPnsyt,neutral,0.0
+17945607932415069,21304958672,aesthetic_vibes,This aesthetic is everything! Pure perfection and bliss ✨💫,2021-07-19 09:30:22,89,hybrid,Bz_0ntPnsyt,positive,0.85
+17956718043526170,32415069783,marcus_a,Customer support was completely unresponsive and rude. Never buying again.,2021-06-11 18:14:05,12,hybrid,Bz_0ntPnsyt,negative,-0.7
+17967829154637281,43526170894,data_nerd,The dataset contains 5517 records with 10 features.,2021-05-02 14:10:00,5,hybrid,Bz_0ntPnsyt,neutral,0.0
+17978930265748392,54637281905,claire_b,Super proud of what the team accomplished today! Huge milestone 🎉🙌 #proud #teamwork,2021-04-18 20:05:44,67,hybrid,Bz_0ntPnsyt,positive,0.75
+17989041376859403,65748392016,alex_rider,Honestly this is mediocre at best. Nothing special or innovative.,2021-03-29 11:40:19,7,hybrid,Bz_0ntPnsyt,negative,-0.3
+17990152487960514,76859403127,urban_lens,Photo taken with Sony A7III at f/2.8 50mm ISO 100.,2021-02-14 16:50:33,18,hybrid,Bz_0ntPnsyt,neutral,0.0
+18001263598071625,87960514238,sophia_m,What a delightful surprise! Exceeded all my expectations ❤️💯,2021-01-25 13:15:50,54,hybrid,Bz_0ntPnsyt,positive,0.92
+18012374609182736,98071625349,critic_corner,Utter waste of time and money. Poorly made and totally useless.,2020-12-30 22:04:11,31,hybrid,Bz_0ntPnsyt,negative,-0.8
+18023485710293847,19182736450,news_daily,Event will be held on Friday at the central convention center.,2020-12-05 08:30:00,9,hybrid,Bz_0ntPnsyt,neutral,0.0
+18034596821304958,20293847561,lily_green,Beautiful morning sunshine and positive energy to everyone ☀️🌻,2020-11-19 07:12:33,40,hybrid,Bz_0ntPnsyt,positive,0.65
+18045607932415069,31304958672,dan_brown,"Horrible bug in the latest patch, crashes every five minutes!",2020-10-28 17:45:09,19,hybrid,Bz_0ntPnsyt,negative,-0.75
+18056718043526170,42415069783,travel_diaries,Arrived at the hotel. Check-in starts at 3 PM.,2020-10-15 14:00:20,3,hybrid,Bz_0ntPnsyt,neutral,0.0
+18067829154637281,53526170894,chloe_fashion,I am completely in love with these vibrant colors! Stunning look 💕👗,2020-09-22 19:20:15,76,hybrid,Bz_0ntPnsyt,positive,0.8
+18078930265748392,64637281905,george_k,Such a boring and tedious presentation. Could not stay awake.,2020-09-01 11:10:45,14,hybrid,Bz_0ntPnsyt,negative,-0.6
+18089041376859403,75748392016,book_club,The book has 320 pages and 12 chapters.,2020-08-14 15:35:10,6,hybrid,Bz_0ntPnsyt,neutral,0.0
+18090152487960514,86859403127,maya_art,Truly inspiring work! Keep shining and creating magic 🌟🎨,2020-07-29 21:05:30,112,hybrid,Bz_0ntPnsyt,positive,0.88
+18101263598071625,97960514238,sam_w,Worst delivery service ever experienced. Package arrived damaged.,2020-07-10 13:40:55,27,hybrid,Bz_0ntPnsyt,negative,-0.85
+18112374609182736,18071625349,daily_update,Meeting rescheduled to Monday morning at 9:00 AM.,2020-06-25 16:15:00,1,hybrid,Bz_0ntPnsyt,neutral,0.0
+18123485710293847,29182736450,olivia_r,Incredible experience! The staff was super helpful and welcoming 👏❤️,2020-06-08 18:50:22,83,hybrid,Bz_0ntPnsyt,positive,0.82
+18134596821304958,30293847561,kevin_t,Very disappointed with the quality. Cheap material and broke immediately.,2020-05-19 12:25:40,38,hybrid,Bz_0ntPnsyt,negative,-0.72
+18145607932415069,41304958672,finance_watch,Quarterly revenue report will be published next Thursday.,2020-05-01 10:00:00,8,hybrid,Bz_0ntPnsyt,neutral,0.0
+18156718043526170,52415069783,natalie_s,Such a heartwarming video! Put the biggest smile on my face 😊🌈,2020-04-12 14:40:18,95,hybrid,Bz_0ntPnsyt,positive,0.85

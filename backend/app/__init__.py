@@ -1,0 +1,1 @@
+# SocialPulse backend application package
